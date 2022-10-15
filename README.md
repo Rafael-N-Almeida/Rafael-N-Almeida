@@ -17,7 +17,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Sou iniciante em programação, mas minha redes sociais estão aqui em baixo!
  
 <div> 
   
