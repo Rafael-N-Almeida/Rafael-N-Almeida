@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao perfil do Rafael-N-Almeida
- 😁
+ 
 
  <div>
   <a href="https://github.com/Rafael-N-Almeida">
