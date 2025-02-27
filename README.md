@@ -17,12 +17,12 @@
  
  <br>
  
-  ### Sou iniciante em programação, mas minha redes sociais estão aqui em baixo!
+  ### Sou iniciante em programação. Se quiser falar comigo pode acessar minha rede social aqui em baixo!
  
 <div> 
   
   <a href="https://www.instagram.com/rafaelnunes.almeida/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://www.tiktok.com/@rafagameplay63" target="_blank"><img src="https://img.shields.io/badge/TikTok-7289DA?style=for-the-badge&logo=TikTok&logoColor=white" target="_blank"></a> 
+  
   
  
  
