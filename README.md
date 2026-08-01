@@ -35,10 +35,6 @@ Currently, I am focused on improving my skills in Data Analysis, Machine Learnin
 ### Data Analysis & Artificial Intelligence
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/>
-</p>
-
-<p align="left">
 <img src="https://skillicons.dev/icons?i=python" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/>
