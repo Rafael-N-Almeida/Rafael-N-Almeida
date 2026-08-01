@@ -49,7 +49,6 @@ Currently, I am focused on improving my skills in Data Analysis, Machine Learnin
 - PostgreSQL
 - MySQL
 - SQLite
-- SQL
 
 ### Data Visualization
 
@@ -71,12 +70,12 @@ Currently, I am focused on improving my skills in Data Analysis, Machine Learnin
 
 ## 📚 Currently Learning
 
-- Advanced Python programming
-- Machine Learning algorithms
+- Python programming best practices
+- Machine Learning fundamentals
 - Data visualization techniques
 - Database optimization
 - Cloud computing fundamentals
-- Software development best practices
+- Software development practices
 
 ---
 
@@ -130,6 +129,20 @@ Database project focused on designing and implementing a structured database sol
 - Database Normalization
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rafael-N-Almeida&show_icons=true&theme=transparent&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-N-Almeida&layout=compact&theme=transparent&hide_border=true" />
+
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Rafael-N-Almeida&color=blue&style=flat" />
+</p>
 
 ## 🎯 My Goals
 
