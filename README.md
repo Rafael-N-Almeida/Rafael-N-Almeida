@@ -1,21 +1,26 @@
-# 👋 Hi, I'm Rafael!
+<h1 align="center">Hi 👋, I'm Rafael</h1>
 
-## 🎓 Data Science & Artificial Intelligence Student
+<h3 align="center">
+Data Science & Artificial Intelligence Student
+</h3>
 
-I am a Data Science and Artificial Intelligence student passionate about technology, programming, data analysis, and artificial intelligence.
+<p align="center">
+Python • SQL • Data Analysis • Machine Learning
+</p>
 
-I enjoy building projects to improve my skills and solve problems using data and software development.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Data+Science+Student;Python+Developer;SQL+Enthusiast;Future+Data+Analyst" />
+</p>
 
 ---
 
 ## 🙋 About Me
 
-- 🎓 Currently studying Data Science & Artificial Intelligence
-- 🐍 Developing skills in Python programming
-- 🗄️ Working with SQL and databases
-- 📊 Interested in Data Analysis and Data Visualization
-- 🤖 Exploring Artificial Intelligence and Machine Learning
-- 💻 Interested in software development and technology
+I am a Data Science & Artificial Intelligence student passionate about technology, data analysis and software development.
+
+I enjoy building projects using Python, SQL and databases, transforming data into useful insights and exploring solutions with Artificial Intelligence.
+
+Currently, I am focused on improving my skills in Data Analysis, Machine Learning and building real-world projects.
 
 ---
 
@@ -23,41 +28,110 @@ I enjoy building projects to improve my skills and solve problems using data and
 
 ### Programming Languages
 
-🐍 Python  
-🗄️ SQL  
-🌐 HTML  
-🎨 CSS  
-⚡ JavaScript  
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-### Data & Database
+### Data Analysis & Artificial Intelligence
 
-📊 Pandas  
-🔢 NumPy  
-🐘 PostgreSQL  
-🗃️ SQLite  
-📈 Power BI  
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/>
+</p>
 
-### Tools
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/>
+</p>
 
-💻 VS Code  
-🐙 Git & GitHub  
-🐧 Linux  
+### Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+</p>
+
+- PostgreSQL
+- MySQL
+- SQLite
+- SQL
+
+### Data Visualization
+
+- Power BI
+
+### Tools & Others
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+- Git & GitHub
+- VS Code
+- Linux
+- Web Scraping
+- APIs
 
 ---
 
 ## 📚 Currently Learning
 
-- Machine Learning fundamentals
-- Data Analysis techniques
+- Advanced Python programming
+- Machine Learning algorithms
+- Data visualization techniques
 - Database optimization
-- AWS Cloud fundamentals
-- Software development practices
+- Cloud computing fundamentals
+- Software development best practices
 
 ---
 
 ## 🚀 Featured Projects
 
-Coming soon...
+### 📊 Data Analysis & Visualization
+
+Data analysis projects focused on extracting insights from datasets using Python and data tools.
+
+**Technologies:**
+- Python
+- Pandas
+- NumPy
+- Power BI
+- APIs
+
+---
+
+### 🗄️ PostgreSQL Database Optimization
+
+Projects involving database modeling, SQL queries and optimization techniques.
+
+**Technologies:**
+- PostgreSQL
+- SQL
+- Database Modeling
+- Query Optimization
+
+---
+
+### 🌐 Web Scraping Data Collection
+
+Automation projects for collecting and processing information from websites.
+
+**Technologies:**
+- Python
+- Scrapy
+- APIs
+- SQLite
+
+---
+
+### 🧬 IST Ambiental Database System
+
+Database project focused on designing and implementing a structured database solution.
+
+**Technologies:**
+- PostgreSQL
+- SQL
+- ER Modeling
+- Database Normalization
 
 ---
 
@@ -71,6 +145,16 @@ Coming soon...
 
 ---
 
-## 📫 Contact
+## 📫 Connect with me
 
-GitHub: [Rafael-N-Almeida](https://github.com/Rafael-N-Almeida)
+<p align="left">
+
+<a href="https://www.linkedin.com/in/rafael-nunes-9839862a9/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+
+<a href="mailto:rafaelnunes.almeidamls@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+</a>
+
+</p>
